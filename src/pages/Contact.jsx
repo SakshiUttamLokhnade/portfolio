@@ -24,7 +24,7 @@ const Contact = () => {
                   </div>
                 </a>
                 <a href="tel:+917276821437" className="contact-item">
-                  <FaPhone className="contact-icon" />
+                  <FaPhone className="contact-icon phone-icon-flipped" />
                   <div>
                     <span className="contact-label">Phone</span>
                     <span className="contact-value">+91 7276821437</span>
@@ -32,7 +32,7 @@ const Contact = () => {
                 </a>
               </div>
               <div className="social-links">
-                <a href="https://www.linkedin.com/in/sakshi-lokhandel" target="_blank" rel="noreferrer" className="social-button">
+                <a href="https://www.linkedin.com/in/sakshi-lokhande1/" target="_blank" rel="noreferrer" className="social-button">
                   <FaLinkedin />
                   LinkedIn
                 </a>

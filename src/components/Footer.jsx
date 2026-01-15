@@ -17,7 +17,7 @@ const Footer = () => {
           <FaPhone />
           Phone
         </a>
-        <a href="https://www.linkedin.com/in/sakshi-lokhandel" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/sakshi-lokhande1/" target="_blank" rel="noreferrer">
           <FaLinkedin />
           LinkedIn
         </a>

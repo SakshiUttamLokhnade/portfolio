@@ -68,6 +68,10 @@
   flex-shrink: 0;
 }
 
+.phone-icon-flipped {
+  transform: scaleX(-1);
+}
+
 .contact-item div {
   display: flex;
   flex-direction: column;

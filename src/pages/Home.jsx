@@ -51,7 +51,7 @@ const Home = () => {
             </div>
             <div className="social-icons">
               <a 
-                href="https://www.linkedin.com/in/sakshi-lokhandel" 
+                href="https://www.linkedin.com/in/sakshi-lokhande1/" 
                 target="_blank" 
                 rel="noreferrer"
                 className="social-icon linkedin"

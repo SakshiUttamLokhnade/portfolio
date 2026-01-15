@@ -28,7 +28,6 @@ const SectionTitle = ({ children, id }) => {
 
   return (
     <div className={`section-heading ${isVisible ? 'visible' : ''}`} id={id} ref={ref}>
-      <div className="section-kicker">Section</div>
       <h2>{children}</h2>
     </div>
   )
