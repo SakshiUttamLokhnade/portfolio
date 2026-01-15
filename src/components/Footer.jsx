@@ -14,7 +14,7 @@ const Footer = () => {
           Email
         </a>
         <a href="tel:+917276821437">
-          <FaPhone />
+          <FaPhone className="phone-icon-flipped" />
           Phone
         </a>
         <a href="https://www.linkedin.com/in/sakshi-lokhande1/" target="_blank" rel="noreferrer">

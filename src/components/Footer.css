@@ -46,6 +46,10 @@
   transform: translateY(-2px);
 }
 
+.phone-icon-flipped {
+  transform: scaleX(-1);
+}
+
 .muted {
   color: #64748b;
 }
